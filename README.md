@@ -1,6 +1,6 @@
 ### Youtube Clone Application
 
-    Using React and RapidAPI
+    Using React, MaterialUI and RapidAPI
 
 ### `Features`
 
@@ -16,6 +16,8 @@
 - [click here](https://rapidapi.com/ytdlfree/api/youtube-v31)
 
 ### `Preview`
+![youtubeClone](https://user-images.githubusercontent.com/62636620/226146689-de89c6ff-acfd-4c80-b012-1f1767f3cf56.gif)
+
 
 ### `npm start`
 
